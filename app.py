@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+
 # Step 1: Letters A, B, C as binary patterns (5x6 = 30 pixels)
 A = [0,1,1,1,0,
      1,0,0,0,1,
